@@ -9,7 +9,9 @@ Machine Learning course
 
 :white_check_mark: Exercise 3
 
-Link to Jupyter Notebook: [Linear_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Linear_Exercises.ipynb)
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/ace0eed869185e4802884bc3398b20d55e2ce0ea)
+
+**Link to Jupyter Notebook**: [Linear_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Linear_Exercises.ipynb)
 
 
 ### Task 2: Clustering exercises
@@ -24,5 +26,7 @@ Link to Jupyter Notebook: [Linear_Exercises.ipynb](https://github.com/Elyrwag/ml
 
 :white_check_mark: Exercise 5
 
-Link to Jupyter Notebook: [Clustering_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Clustering_Exercises.ipynb)
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/e86aaf6444df1bf55aae319e7db2e955a7e4c64d)
+
+**Link to Jupyter Notebook**: [Clustering_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Clustering_Exercises.ipynb)
 
