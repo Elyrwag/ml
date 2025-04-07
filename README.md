@@ -41,7 +41,7 @@ Machine Learning course
 
 :white_check_mark: Exercise 4
 
-**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/a778be1205d5586213ce2f2124cf3d294a6a1422)
 
 **Link to Jupyter Notebook**: [Decision_trees_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Decision_trees_Exercises.ipynb)
 
