@@ -30,3 +30,18 @@ Machine Learning course
 
 **Link to Jupyter Notebook**: [Clustering_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Clustering_Exercises.ipynb)
 
+
+### Task 3: Decision trees exercises
+
+:white_check_mark: Exercise 1
+
+:white_check_mark: Exercise 2
+
+:white_check_mark: Exercise 3
+
+:white_check_mark: Exercise 4
+
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+
+**Link to Jupyter Notebook**: [Decision_trees_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Decision_trees_Exercises.ipynb)
+
