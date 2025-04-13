@@ -45,3 +45,14 @@ Machine Learning course
 
 **Link to Jupyter Notebook**: [Decision_trees_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Decision_trees_Exercises.ipynb)
 
+
+### Task 4: Ensemble exercises
+
+:white_check_mark: Exercise 1
+
+:white_check_mark: Exercise 2
+
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+
+**Link to Jupyter Notebook**: [Ensemble_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Ensemble_Exercises.ipynb)
+
