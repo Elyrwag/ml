@@ -52,7 +52,7 @@ Machine Learning course
 
 :white_check_mark: Exercise 2
 
-**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/1ab07732f04fd4e7652b48d70cd573d426e4fbd7)
 
 **Link to Jupyter Notebook**: [Ensemble_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Ensemble_Exercises.ipynb)
 
