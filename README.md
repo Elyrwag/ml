@@ -56,3 +56,14 @@ Machine Learning course
 
 **Link to Jupyter Notebook**: [Ensemble_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/Ensemble_Exercises.ipynb)
 
+
+### Task 5: SVM exercises
+
+:white_check_mark: Exercise 1
+
+:white_check_mark: Exercise 2
+
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+
+**Link to Jupyter Notebook**: [SVM_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/SVM_Exercises.ipynb)
+
