@@ -80,7 +80,7 @@ Machine Learning course
 
 :white_check_mark: Exercise 5
 
-**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/dde8d8ff50a9adc589fb4c142d760dc8fdfd7ee6)
 
 **Link to Jupyter Notebook**: [NLP_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/NLP_Exercises.ipynb)
 
