@@ -67,3 +67,20 @@ Machine Learning course
 
 **Link to Jupyter Notebook**: [SVM_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/SVM_Exercises.ipynb)
 
+
+### Task 6: NLP exercises
+
+:white_check_mark: Exercise 1
+
+:white_check_mark: Exercise 2
+
+:white_check_mark: Exercise 3
+
+:white_check_mark: Exercise 4
+
+:white_check_mark: Exercise 5
+
+**Combined commit**: [commit](https://github.com/Elyrwag/ml/commit/)
+
+**Link to Jupyter Notebook**: [NLP_Exercises.ipynb](https://github.com/Elyrwag/ml/blob/main/NLP_Exercises.ipynb)
+
